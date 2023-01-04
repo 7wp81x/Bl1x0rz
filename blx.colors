@@ -1,0 +1,22 @@
+# Github: https://github.com/Mrp1r4t3/Bl1x0rz
+# Termux Bl1x0rz Color scheme
+
+color0=#080808
+color1=#da0000
+color2=#00eda1
+color3=#d2a700
+color4=#1de1ff
+color5=#ff90fe
+color6=#6bffdd
+color7=#a39e9b
+color8=#2e2e2e
+color9=#da0000
+color10=#68ff2f
+color11=#e2ff00
+color12=#1de1ff
+color13=#ff5dff
+color14=#00ffff
+color15=#e7e9db
+background=#101034
+foreground=#00eda1
+cursor=#da0000
